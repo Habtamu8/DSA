@@ -10,6 +10,7 @@ public class Main {
                     my_array[j] = my_array[j+1];
                     my_array[j+1] = temp;
                 }
+                
             }
         }
 
