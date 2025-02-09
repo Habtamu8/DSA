@@ -13,7 +13,6 @@ public class Main {
             int min_value = my_array[min_index];
             for (int k = min_index; k > i; k--) {
                 my_array[k] = my_array[k-1];
-                
             }
             my_array[i] = min_value;
         }
