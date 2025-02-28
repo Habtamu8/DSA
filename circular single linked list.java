@@ -10,7 +10,7 @@ public class Main {
         }
     }
 
-    public static void main(String [] args) {
+    public static void  main(String [] args) {
       Node firstnode = new Node(2);
       Node secondnode = new Node(3);
       Node thirdnode = new Node(12);
