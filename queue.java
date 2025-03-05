@@ -66,7 +66,7 @@ class Queue {
         return size;
     }
 
-    public void printQueue() {
+    public  void printQueue() {
         System.out.print("Queue: ");
         for (int i = 0; i < size; i++) {
             System.out.print(queue[(front + i) % capacity] + " ");
