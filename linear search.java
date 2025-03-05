@@ -8,7 +8,7 @@ public class Main {
         return -1;
     }
 
-    public static void main (String[] args) {
+    public static void  main (String[] args) {
         int[] arr = {4, 2, 2, 6, 3, 3, 1, 6, 5, 2, 3};
         int target = 6;
         int index = linearSearch(arr, target);
