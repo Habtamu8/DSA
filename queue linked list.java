@@ -79,7 +79,7 @@ class Queue {
     }
     
     public void printQueue() {
-        Node temp = this.front;
+        Node temp = this.front ;
         while (temp != null) {
             System.out.print(temp.data + " ");
             temp = temp.next;
