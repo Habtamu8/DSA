@@ -7,7 +7,7 @@ public class main{
         this.next = null;
       }
     }
-public  static void main(String[] args){
+public  static  void main(String[] args){
    Node firstnode = new Node(4);
    Node secondnode = new Node(2);
    Node thirdnode = new Node(3);
