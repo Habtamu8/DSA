@@ -1,3 +1,5 @@
+
+
 import java.util.Stack;
 public class Main{
     public static void main(String [] args){
@@ -9,7 +11,10 @@ public class Main{
         stack.push("Mine");
         stack.push("Mi");
         stack.push("draft");
+
+stack.pop();
   
+System.out.println(stack.peek());
 System.out.print(stack);
        
     }
