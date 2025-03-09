@@ -54,7 +54,7 @@ class Stack {
         if (isEmpty()) {
             return ' ';
         }
-        return head.value;
+        return  head.value;
     }
 
     public boolean isEmpty() {
