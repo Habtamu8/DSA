@@ -1,5 +1,5 @@
 public class Main {
-    static int count = 2;
+    static  int count = 2;
 
     public static void fibonacci(int prev1, int prev2) {
         if (count <= 19) {
