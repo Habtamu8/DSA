@@ -17,7 +17,7 @@ public class Main {
           }
           System.out.println("null");    
       }
-      public static Node deleteNode(Node head , Node nodeTobeDeleted){
+      public  static Node deleteNode(Node head , Node nodeTobeDeleted){
        if(head == nodeTobeDeleted){
           return head.next;
        }
