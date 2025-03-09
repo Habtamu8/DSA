@@ -1,5 +1,5 @@
  public class Main{
-  public static int Binarysearch(int arry [], int targetvalue){
+  public  static int Binarysearch(int arry [], int targetvalue){
       int left = 0;
       int right = arry.length-1;
        while(left <=right){
