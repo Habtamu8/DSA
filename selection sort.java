@@ -10,7 +10,7 @@ public class Main {
                     min_index = j;
                 }
             }
-            int min_value = my_array[min_index];
+            int  min_value = my_array[min_index];
             for (int k = min_index; k > i; k--) {
                 my_array[k] = my_array[k-1];
             }
