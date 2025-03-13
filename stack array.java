@@ -61,7 +61,7 @@ class Stack {
         return top == -1;
     }
 
-    public int size() {
+    public  int size() {
         return top + 1;
     }
 
