@@ -19,7 +19,6 @@ public  class Main {
       System.out.print("null");
   
   }
-  
      public static void main(String[] args){
       Node firstNode = new Node(3);
       Node secondnode =new Node(4);
