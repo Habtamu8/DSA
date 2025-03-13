@@ -9,7 +9,7 @@
            return mid;            
         }
 
-        if(arry[mid]< targetvalue){
+        if(arry[mid] < targetvalue){
             left = mid +1;
 
         }
