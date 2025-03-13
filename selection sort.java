@@ -3,7 +3,7 @@ public class Main {
         int[] my_array = {64, 34, 25, 5, 22, 11, 90, 12};
         int n = my_array.length;
 
-        for (int i = 0; i < n-1; i++) {
+        for  (int i = 0; i < n-1; i++) {
             int min_index = i;
             for (int j = i+1; j < n; j++) {
                 if (my_array[j] < my_array[min_index]) {
