@@ -12,7 +12,6 @@ public class Main {
         for(int num : arr) {
             count[num]++;
         }
-
         int index = 0;
         for(int i = 0; i <= max_val; i++) {
             while(count[i] > 0) {
