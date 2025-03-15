@@ -1,7 +1,7 @@
 public class Main {
     static int count = 2;
 
-    public static void fibonacci(int prev1, int prev2) {
+    public  static void fibonacci(int prev1, int prev2) {
         if (count <= 19) {
             int newFibo = prev1 + prev2;
             System.out.println(newFibo);
