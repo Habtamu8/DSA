@@ -9,6 +9,6 @@ public class Main {
             }
         }
 
-        System.out.println("Lowest value: " + minVal);
+        System.out.println("Lowest value:  " + minVal);
     }
 }
