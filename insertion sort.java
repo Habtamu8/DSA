@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
         int[] myArray = {64, 34, 25, 12, 22, 11, 90, 5};
 
-        int n = myArray.length;
+        int  n = myArray.length;
         for (int i = 1; i < n; i++) {
             int insertIndex = i;
             int currentValue = myArray[i];
