@@ -17,8 +17,6 @@ public static  void main(String[] args){
    secondnode.next = thirdnode;
    thirdnode.next = fourthnode;
 
-
-
    Node currentNode =  firstnode;
    while (currentNode != null) {
     System.out.print(currentNode.data + "->" );
