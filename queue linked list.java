@@ -74,7 +74,7 @@ class Queue {
         return length == 0;
     }
     
-    public int size() {
+    public  int size() {
         return length;
     }
     
