@@ -8,9 +8,7 @@ public class Main {
             prev2 = prev1;
             prev1 = newFibo;
             count += 1;
-
-
-            hiii
+           hi
             fibonacci (prev1, prev2);
         } else {
             return;
