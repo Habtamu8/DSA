@@ -11,7 +11,7 @@ public class Main{
         stack.push("Mine");
         stack.push("Mi");
         stack.push("draft");
-
+    Pushstack
 stack.pop();
   
 System.out.println(stack.peek());
